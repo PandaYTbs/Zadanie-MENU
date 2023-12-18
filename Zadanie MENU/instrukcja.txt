@@ -1,0 +1,11 @@
+https://ionic.io/ionicons
+
+-----dodać do body------------
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+-------------------------------------------------------------------------------------------------
+
+rgb(189, 189, 189) - body 
+white - slidebar
+#f3f3f3 - hover slidebar
+#333 - icony i tekst
